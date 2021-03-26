@@ -1,4 +1,5 @@
 C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\testCases\TC_001_AccountRegistration.java
+C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\testCases\TC_004_Search.java
 C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\pageObjects\MyAccountPage.java
 C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\testBase\BaseClass.java
 C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\pageObjects\AccountRegistrationPage.java
@@ -8,3 +9,4 @@ C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\pageObje
 C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\testCases\TC_002_Login.java
 C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\utilities\XLUtility.java
 C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\pageObjects\LoginPage.java
+C:\Users\avpap\eclipse-workspace\java programs\opencartV1\src\test\java\testCases\TC_005_AddCart.java
